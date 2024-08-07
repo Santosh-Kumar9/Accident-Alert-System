@@ -1,6 +1,6 @@
 _**GSM SIM 800L :-**_
-  **RX pin -** D2
-  **TX pin -** D3
+  \n**RX pin -** D2
+  \n**TX pin -** D3
 
 _**GPS pins :-**_
   **RX pin -** D9
